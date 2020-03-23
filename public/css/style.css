@@ -1,0 +1,15 @@
+.modal-header{
+    background: orange;
+}
+.modal-header{
+    font-size: 2.5rem;
+    color: white;
+}
+
+.modal-header span{
+    font-size: 2.5rem;
+    color: #f1f1f1;
+}
+ .modal-body input{
+    outline: none;
+}
